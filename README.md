@@ -12,8 +12,10 @@
 
 <p align="center"style="font-size:20px;"><a href="https://zycdzyj.github.io">个人主页</a></p>
 
-<p style="align:center;">语言<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img 
-                src="https://skillicons.dev/icons?i=python,typescript,html,css,js,vscode,powershell,git" 
-                alt="My Skills: Python, TypeScript, HTML, CSS, JS, VSCode,powershell,git"
-            />
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python,typescript,html,css,js,vscode,powershell,git"
+         alt="My Skills: Python, TypeScript, HTML, CSS, JS, VSCode, powershell, git" />
+  </a>
+</p>
 
