@@ -4,7 +4,7 @@
 
 <h1 align="center">Blomsterhav-繁花-</h1>
 
-<p align="center" style="font-size:20px;">满园深浅色,照在绿波中~</p>
+<p align="center" style="font-size:20px;">每个生命都是朝圣的漫游,每条路都是通向自我的征途.</p>
 
 <p align="center"style="font-size:20px;">Typescript,Pythpn学习者开发者</p>
 
