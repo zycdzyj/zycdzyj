@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zycdzyj.png" alt="picture" width="150">
+  <img src="zycdzyj.jpg" alt="picture" width="150">
 </p>
 
 <h1 align="center">Blomsterhav-繁花-</h1>
